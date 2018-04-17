@@ -1,3 +1,4 @@
 # primeroEntornos
 Para aprender  Git commits y ramas
-Modificar la rama master
+Quito lo escrito en master
+Modifico el develop
